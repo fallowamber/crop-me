@@ -2,13 +2,15 @@
 
 In _January 2002_, a URL shortener called "**TinyURL**" was created by an _American web developer_, **Kevin Gilbertson**. Many thanks to him, as trimming of links has been possible over the recent decades with newer and better evolutions coming up, such as **bit.ly** and **goo.gl**. Although, these technologies are great, the time wasted in opening up a new tab to shorten a link in bit.ly, for example, is evitable with a recent project, titled "**Tiny Me**" - one inspired by the first ever to be made URL shortener.
 
-<img width="450" alt="Tiny Me" class="center" src="https://user-images.githubusercontent.com/77555172/110471252-3842e280-80dc-11eb-9690-7d85588e1c1a.png">
+<img width="150" alt="Tiny Me" class="center" src="https://user-images.githubusercontent.com/77555172/110471252-3842e280-80dc-11eb-9690-7d85588e1c1a.png">
 
 ## What it does
 
 **Tiny Me**, as displayed in the [wireframe](https://www.figma.com/proto/vqzp7OhBdCwY2orfExE60S/Tiny-Me-Chrome-Extension?node-id=0%3A1&scaling=scale-down) made on Figma, is a small extension when once added to the Google Chrome Browser and is clicked on from the extension drop-down menu, shortens whatever link that was displayed in the search box.
 
-An instance is this <img width="1152" alt="Extension - Tiny Me Usage 1" src="https://user-images.githubusercontent.com/77555172/110471548-8a840380-80dc-11eb-90b4-4563c36d8afa.png"> - the shortening of the world's longest URL as an example in the wireframe. The link was shortened to tiny.me/gogoch.
+An instance is the shortening of the world's longest URL as an example in the wireframe which was shortened to tiny.me/gogoch.
+
+<img width="1152" alt="Extension - Tiny Me Usage 1" src="https://user-images.githubusercontent.com/77555172/110471548-8a840380-80dc-11eb-90b4-4563c36d8afa.png"> 
 
 ## How it was built
 
