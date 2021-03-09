@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Inspiration
 
-You can use the [editor on GitHub](https://github.com/Fallow23/Tiny-Me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In _January 2002_, a URL shortener called "**TinyURL**" was created by an _American web developer_, **Kevin Gilbertson**. Many thanks to him, as trimming of links has been possible over the recent decades with newer and better evolutions coming up, such as **bit.ly** and **goo.gl**. Although, these technologies are great, the time wasted in opening up a new tab to shorten a link in bit.ly, for example, is evitable with a recent project, titled "**Tiny Me**" - one inspired by the first ever to be made URL shortener.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img width="250" alt="Tiny Me" class="center" src="https://user-images.githubusercontent.com/77555172/110471252-3842e280-80dc-11eb-9690-7d85588e1c1a.png">
 
-### Markdown
+## What it does
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Tiny Me**, as displayed in the [wireframe](https://www.figma.com/proto/vqzp7OhBdCwY2orfExE60S/Tiny-Me-Chrome-Extension?node-id=0%3A1&scaling=scale-down) made on Figma, is a small extension when once added to the Google Chrome Browser and is clicked on from the extension drop-down menu, shortens whatever link that was displayed in the search box.
 
-```markdown
-Syntax highlighted code block
+An instance is [this]() - the shortening of the world's longest URL as an example in the wireframe. The link was shortened to tiny.me/gogoch.
 
-# Header 1
-## Header 2
-### Header 3
+## How it was built
 
-- Bulleted
-- List
+The original designs of how the Google Chrome Application should look like were the start of the project's look. After the application had been fully designed, the page of the world's longest URL was made. The extensions section for the Tiny Me was built using the Vimeo Screen Recording Chrome Extension as a case study.
 
-1. Numbered
-2. List
+## Challenges I ran into
 
-**Bold** and _Italic_ and `Code` text
+Although, the project was meant to be implementable, I ran into faults trying to get a free .me domain and building the project into a Chrome Extension due to my lack of JavaScript knowledge. The only solution I could come up with to solve the problem of submitting the project earlier was to make a UI/UX design.
 
-[Link](url) and ![Image](src)
-```
+## Accomplishments that I'm proud of
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I'm proud of being able to come up with a grand idea like Tiny Me and finish it up but not too happy with the fact that it isn't usable, yet.
 
-### Jekyll Themes
+## What I learned
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fallow23/Tiny-Me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I learned about:
 
-### Support or Contact
+1) the world's longest URL which I absolutely thought never existed,
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2) the different icons that are used in the Google Chrome Application and how to create them partially,
+
+3) URL shorteners and their evolutions.
+
+## What's next for Tiny Me
+
+Definitely being implementable! It'd be an honour to see people using it in shortening links.
+
+Also, sharing buttons would be available to social media platforms or emails. And, a technology that can predict what link title would suit the purpose. (For example, if a link involves sewing lessons and classes, Tiny Me would shorten the link in such a way as to suit the sewing classes purpose - maybe, a tiny.me/join-sewing URL would be generated).
+
+Finally, a decorative advertisement of links to invite more viewers. Users would be able to subscribe, through payment, a way to advertise their links on the homepage of Tiny Me and possibly other advertising websites and platforms to get more analytics.
+
+##Credits
+
+Special thanks goes to:
+
+1) **The Freepik team** for creating both _Freepik_ and _Flaticon_ used in getting images and icons respectively for free.
+
+2) **Google** for being a lifesaver in times of dire needs.
+
+3) **[Jenya](https://www.figma.com/@smrkv)** for creating the _[Material Design Icons](https://www.figma.com/community/file/878585965681562011) in the Figma Community._
+
+4) **My family** for being so supportive ❤️
+
+
+Copyright © 2021 by _Aisha_
