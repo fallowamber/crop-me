@@ -53,7 +53,7 @@ if (window.location.hash != "") {
         data = data["result"];
 
         if (data != null) {
-            window.location.href = response.url;
+            window.location.href = data;
         }
     });
 }
